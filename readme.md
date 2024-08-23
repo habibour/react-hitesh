@@ -1,2 +1,2 @@
-# starting react JS in the name of Allah
+# Starting react JS in the name of Allah
 
